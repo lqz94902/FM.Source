@@ -47,7 +47,10 @@
 | **88.3JIA**      | https://playerservices.streamtheworld.com/api/livestream-redirect/883JIA.mp3 | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/883JIA.jpg |
 |                  |                                                              |                                                              |
 
+***
+    由于软件并未提供对已添加的电台进行修改的功能，所以若想要修改电台列表则需要对数据库直接进行修改。软件的所有历史记录以及订阅、收藏等用户信息都保存在自建的CouchDB数据库中，数据在数据库中使用json格式进行储存，所以修改数据库中的json数据就能够达到我们对已添加电台的各种信息的调整与维护。
+## 如何修改电台在收藏夹中的排序？
 
+ 进入CouchDB数据库找到与电台收藏相关的数据内容，可以清晰看到诸如图片的数据列表就是电台收藏在数据库中的存储信息，其中m_created_at和m_updated_at分别为每一条收藏记录的创建和修改的时间戳，软件就是根据这个时间戳按照从新到久的顺序进行排序的。也就是所如果我们需要修改某一个电台在软件电台列表中的位置，只需要将该条记录的时间戳修改为所需位置前后两条记录之间即可。
 
-
-
+ 一个Unix时间戳转换工具```https://www.beijing-time.org/shijianchuo/```
