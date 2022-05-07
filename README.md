@@ -39,13 +39,18 @@
 
 | Live Radio Name  | Stream URL                                                   | Logo URL                                                     |
 | ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **LOVE 972**     | https://22393.live.streamtheworld.com/LOVE972FM_PREM.aac     | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/LOVE972.jpg |
-| **CAPITAL 958 ** | https://22403.live.streamtheworld.com/CAPITAL958FM_PREM.aac  | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/Capital958FM.png |
-| **YES 933**      | https://22403.live.streamtheworld.com/YES933_PREM.aac        | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/YES933.jpg |
-| **Gold 905**     | https://22393.live.streamtheworld.com/GOLD905_PREM.aac       | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/GOLD905.jpg |
-| **Class 95**     | https://19183.live.streamtheworld.com/CLASS95_PREM.aac       | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/CLASS95.jpg |
+| **LOVE 972**     | https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac     | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/LOVE972.jpg |
+| **CAPITAL 958 ** | https://14033.live.streamtheworld.com/CAPITAL958FM_PREM.aac  | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/Capital958FM.png |
+| **YES 933**      | https://14033.live.streamtheworld.com/YES933_PREM.aac        | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/YES933.jpg |
+| **Gold 905**     | https://14033.live.streamtheworld.com/GOLD905_PREM.aac       | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/GOLD905.jpg |
+| **Class 95**     | https://14033.live.streamtheworld.com/CLASS95_PREM.aac       | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/CLASS95.jpg |
 | **88.3JIA**      | https://playerservices.streamtheworld.com/api/livestream-redirect/883JIA.mp3 | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/883JIA.jpg |
 |                  |                                                              |                                                              |
+
+## 马来西亚
+| Live Radio Name  | Stream URL                                                   | Logo URL                                                     |
+| ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **MY FM**     | http://astro1.rastream.com/myfm     | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/MY%20FM.png |
 
 ***
     由于软件并未提供对已添加的电台进行修改的功能，所以若想要修改电台列表则需要对数据库直接进行修改。软件的所有历史记录以及订阅、收藏等用户信息都保存在自建的CouchDB数据库中，数据在数据库中使用json格式进行储存，所以修改数据库中的json数据就能够达到我们对已添加电台的各种信息的调整与维护。
