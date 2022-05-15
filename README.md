@@ -2,14 +2,15 @@
 
 ## 国家台
 
-|   Live Radio Name   | Stream URL                                      | Logo URL                                                     |
-| :-----------------: | :---------------------------------------------- | ------------------------------------------------------------ |
-|   **CNR中国之声**   | http://ngcdn001.cnr.cn/live/zgzs/index.m3u8     | https://imagev2.xmcdn.com/group78/M07/A6/A1/wKgO4F6EVv7gP1QhAABQuiUyuzo039.png |
-| **CNR中国交通广播** | http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8 | https://imagev2.xmcdn.com/group74/M04/86/8B/wKgO0l6BlyygF2BXAAAm8JF4qmg852.png |
-|   **CNR经济之声**   | http://ngcdn002.cnr.cn/live/jjzs/index.m3u8     | https://imagev2.xmcdn.com/storages/59fe-audiofreehighqps/E6/45/CMCoOSEEaR40AABUhgCnNxgr.png |
-|   **CNR音乐之声**   | http://ngcdn003.cnr.cn/live/yyzs/index.m3u8     | https://imagev2.xmcdn.com/group75/M05/86/A3/wKgO016BlE-AqvRZAABdRRKCB9s377.png |
-|   **CNR文艺之声**   | http://ngcdn010.cnr.cn/live/wyzs/index.m3u8     | https://imagev2.xmcdn.com/group75/M0B/7D/4F/wKgO3V6BlrbCUkfqAAA-5HoILVY939.png |
-| **CNR经典音乐广播** | http://ngcdn004.cnr.cn/live/dszs/index.m3u8     | https://imagev2.xmcdn.com/group75/M05/86/AC/wKgO016BlGLBUzE2AABFC_LAkBU928.png |
+|   Live Radio Name   | Stream URL                                                   | Logo URL                                                     |
+| :-----------------: | :----------------------------------------------------------- | ------------------------------------------------------------ |
+|   **CNR中国之声**   | http://ngcdn001.cnr.cn/live/zgzs/index.m3u8                  | https://imagev2.xmcdn.com/group78/M07/A6/A1/wKgO4F6EVv7gP1QhAABQuiUyuzo039.png |
+| **CNR中国交通广播** | http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8              | https://imagev2.xmcdn.com/group74/M04/86/8B/wKgO0l6BlyygF2BXAAAm8JF4qmg852.png |
+|   **CNR经济之声**   | http://ngcdn002.cnr.cn/live/jjzs/index.m3u8                  | https://imagev2.xmcdn.com/storages/59fe-audiofreehighqps/E6/45/CMCoOSEEaR40AABUhgCnNxgr.png |
+|   **CNR音乐之声**   | http://ngcdn003.cnr.cn/live/yyzs/index.m3u8                  | https://imagev2.xmcdn.com/group75/M05/86/A3/wKgO016BlE-AqvRZAABdRRKCB9s377.png |
+|   **CNR文艺之声**   | http://ngcdn010.cnr.cn/live/wyzs/index.m3u8                  | https://imagev2.xmcdn.com/group75/M0B/7D/4F/wKgO3V6BlrbCUkfqAAA-5HoILVY939.png |
+| **CNR经典音乐广播** | http://ngcdn004.cnr.cn/live/dszs/index.m3u8                  | https://imagev2.xmcdn.com/group75/M05/86/AC/wKgO016BlGLBUzE2AABFC_LAkBU928.png |
+|    **CCTV-新闻**    | http://cctv.v.myalicdn.com/live/cctv13_1audio.m3u8?adapt=0&BR=audio | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main//img/CCTV13.jpg |
 
 
 
@@ -39,18 +40,27 @@
 
 | Live Radio Name  | Stream URL                                                   | Logo URL                                                     |
 | ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **ONE FM 91.3**  | https://23683.live.streamtheworld.com/ONE_FM_913AAC.aac      | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main//img/ONEFM913.png |
+| **UFM100.3**     | https://23683.live.streamtheworld.com/UFM_1003AAC.aac        | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main//img/UFM1003.png |
+| **96.3好FM**     | https://23683.live.streamtheworld.com/HAO_963AAC.aac         | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main//img/963HAOFM.jpg |
+| **88.3JIA**      | https://playerservices.streamtheworld.com/api/livestream-redirect/883JIA.mp3 | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/883JIA.jpg |
 | **LOVE 972**     | https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac     | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/LOVE972.jpg |
 | **CAPITAL 958 ** | https://14033.live.streamtheworld.com/CAPITAL958FM_PREM.aac  | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/Capital958FM.png |
 | **YES 933**      | https://14033.live.streamtheworld.com/YES933_PREM.aac        | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/YES933.jpg |
 | **Gold 905**     | https://14033.live.streamtheworld.com/GOLD905_PREM.aac       | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/GOLD905.jpg |
+| **CNA 938**      | https://14033.live.streamtheworld.com/938NOW_PREM.aac        | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/CNA938.png |
 | **Class 95**     | https://14033.live.streamtheworld.com/CLASS95_PREM.aac       | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/CLASS95.jpg |
-| **88.3JIA**      | https://playerservices.streamtheworld.com/api/livestream-redirect/883JIA.mp3 | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/883JIA.jpg |
-|                  |                                                              |                                                              |
 
-## 马来西亚
-| Live Radio Name  | Stream URL                                                   | Logo URL                                                     |
-| ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **MY FM**     | http://astro1.rastream.com/myfm     | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/MY%20FM.png |
+##  马来西亚
+
+| Live Radio Name | Stream URL                                       | Logo URL                                                     |
+| --------------- | ------------------------------------------------ | ------------------------------------------------------------ |
+| **MY FM**       | http://astro1.rastream.com/myfm                  | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/MY%20FM.png |
+| **8FM881**      | https://mediaprima.rastream.com/mediaprima-onefm | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main//img/8FM881.jpg |
+
+
+
+
 
 ***
 *由于软件并未提供对已添加的电台进行修改的功能，所以若想要修改电台列表则需要对数据库直接进行修改。软件的所有历史记录以及订阅、收藏等用户信息都保存在自建的CouchDB数据库中，数据在数据库中使用json格式进行储存，所以修改数据库中的json数据就能够达到我们对已添加电台的各种信息的调整与维护。*
