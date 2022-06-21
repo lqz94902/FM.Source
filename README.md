@@ -33,8 +33,8 @@
 |    **飛碟聯播網**     | https://stream.rcs.revma.com/em90w4aeewzuv | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/UFO.jpg |
 |    **九八新聞台**     | http://stream.rcs.revma.com/pntx1639ntzuv  | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/News98.jpg |
 |   **中廣新聞廣播**    | http://stream.rcs.revma.com/fgtx07f3qtzuv  | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/BCCNews.png |
-|  ~~**POP Radio聯播網**~~  | ~~http://149.129.100.78:8000/popradio~~        | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/POPRadio.jpg |
-| ~~**Hit FM聯播網 北部**~~ | ~~http://149.129.100.78:8000/hitfm~~           | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/hitFM.jpg |
+|  **POP Radio聯播網**  | ~~http://149.129.100.78:8000/popradio~~        | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/POPRadio.jpg |
+| **Hit FM聯播網 北部** | ~~http://149.129.100.78:8000/hitfm~~           | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/hitFM.jpg |
 
 ## 新加坡
 
