@@ -10,7 +10,11 @@
 |   **CNR音乐之声**   | http://ngcdn003.cnr.cn/live/yyzs/index.m3u8                  | https://imagev2.xmcdn.com/group75/M05/86/A3/wKgO016BlE-AqvRZAABdRRKCB9s377.png |
 |   **CNR文艺之声**   | http://ngcdn010.cnr.cn/live/wyzs/index.m3u8                  | https://imagev2.xmcdn.com/group75/M0B/7D/4F/wKgO3V6BlrbCUkfqAAA-5HoILVY939.png |
 | **CNR经典音乐广播** | http://ngcdn004.cnr.cn/live/dszs/index.m3u8                  | https://imagev2.xmcdn.com/group75/M05/86/AC/wKgO016BlGLBUzE2AABFC_LAkBU928.png |
-|    **CCTV-新闻**    | http://cctv.v.myalicdn.com/live/cctv13_1audio.m3u8?adapt=0&BR=audio | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main//img/CCTV13.jpg |
+| **CNR环球资讯广播** | https://sk.cri.cn/905.m3u8                  | https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20200306/1583464064428.jpg |
+| **CNR阅读之声** | https://ngcdn014.cnr.cn/live/ylgb/index.m3u8                  |https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191015/1571132054820.png |
+| **FM轻松调频** | https://sk.cri.cn/915.m3u8                  |https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191227/1577439525359.png |
+|    **CCTV-5**    | https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8 | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/CCTV5.png |
+|    **CCTV-13**    | https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8 | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/CCTV13.png |
 
 
 
@@ -18,11 +22,11 @@
 
 |   Live Radio Name    | Stream URL                                                   | Logo URL                                                     |
 | :------------------: | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|   **福建新闻广播**   | https://live.ximalaya.com/radio-first-page-app/live/792/64.m3u8 | https://imagev2.xmcdn.com/group74/M00/9E/F2/wKgO0l6DBYjBQdNbAAAp62AdX9Y281.png |
-|   **福建交通广播**   | https://live.ximalaya.com/radio-first-page-app/live/790/64.m3u8 | https://imagev2.xmcdn.com/group77/M09/95/23/wKgO316DBWnCi4ZkAAAn46HSUzk920.png |
-|   **福建东南广播**   | https://live.ximalaya.com/radio-first-page-app/live/788/64.m3u8 | https://imagev2.xmcdn.com/group77/M09/95/16/wKgO316DBU_ClZiXAAA7LI4QhcU438.png |
-|  **987私家车广播**   | https://live.ximalaya.com/radio-first-page-app/live/793/64.m3u8 | https://imagev2.xmcdn.com/group76/M04/65/3C/wKgO1F6OzQyicL5IAADvSGmd-R4404.png |
-| **福建汽车音乐广播** | https://live.ximalaya.com/radio-first-page-app/live/791/64.m3u8 | https://imagev2.xmcdn.com/group74/M00/9E/E9/wKgO0l6DBXWxvAaHAABItUTWYIk141.png |
+|   **福建新闻广播**   | ~~https://live.ximalaya.com/radio-first-page-app/live/792/64.m3u8~~ | https://imagev2.xmcdn.com/group74/M00/9E/F2/wKgO0l6DBYjBQdNbAAAp62AdX9Y281.png |
+|   **福建交通广播**   | ~~https://live.ximalaya.com/radio-first-page-app/live/790/64.m3u8~~ | https://imagev2.xmcdn.com/group77/M09/95/23/wKgO316DBWnCi4ZkAAAn46HSUzk920.png |
+|   **福建东南广播**   | ~~https://live.ximalaya.com/radio-first-page-app/live/788/64.m3u8~~ | https://imagev2.xmcdn.com/group77/M09/95/16/wKgO316DBU_ClZiXAAA7LI4QhcU438.png |
+|  **987私家车广播**   | ~~https://live.ximalaya.com/radio-first-page-app/live/793/64.m3u8~~ | https://imagev2.xmcdn.com/group76/M04/65/3C/wKgO1F6OzQyicL5IAADvSGmd-R4404.png |
+| **福建汽车音乐广播** | ~~https://live.ximalaya.com/radio-first-page-app/live/791/64.m3u8~~ | https://imagev2.xmcdn.com/group74/M00/9E/E9/wKgO0l6DBXWxvAaHAABItUTWYIk141.png |
 
 
 
@@ -35,6 +39,42 @@
 |   **中廣新聞廣播**    | http://stream.rcs.revma.com/fgtx07f3qtzuv  | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/BCCNews.png |
 |  **POP Radio聯播網**  | ~~http://149.129.100.78:8000/popradio~~        | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/POPRadio.jpg |
 | **Hit FM聯播網 北部** | ~~http://149.129.100.78:8000/hitfm~~           | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/hitFM.jpg |
+|   **飛揚調頻 FM89.5**    | https://stream.rcs.revma.com/e0tdah74hv8uv  | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/%E9%A3%9E%E6%89%AC%E8%B0%83%E9%A2%9189.5.jpg|
+|   **亞太電台 FM92.3**    | https://stream.rcs.revma.com/kydend74hv8uv  | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/%E4%BA%9E%E5%A4%AA%E9%9B%BB%E5%8F%B0%20FM92.3.jpg|
+|   **亞洲電台 FM92.7**    | https://stream.rcs.revma.com/xpgtqc74hv8uv  | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/%E4%BA%9E%E6%B4%B2%E9%9B%BB%E5%8F%B0%20FM92.7.jpg|
+|   **中廣流行網**    | https://stream.rcs.revma.com/s1zttsg3qtzuv  | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/%E4%B8%AD%E5%BB%A3%E6%B5%81%E8%A1%8C%E7%B6%B2.jpg|
+|   **中廣音樂網**    | https://stream.rcs.revma.com/ks4vsmg3qtzuv  | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/%E4%B8%AD%E5%BB%A3%E9%9F%B3%E6%A8%82%E7%B6%B2.png|
+|   **佳音廣播電台FM90.9**    | http://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm909/chunklist_w2099545560.m3u8  | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/%E4%BD%B3%E9%9F%B3%E7%94%B5%E5%8F%B0.png|
+
+
+## 美国
+
+|    Live Radio Name    | Stream URL                                 | Logo URL                                                     |
+| :-------------------: | :----------------------------------------- | :----------------------------------------------------------- |
+|    **CNN International**     | https://tunein.streamguys1.com/CNNi | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/CNN_International.png |
+
+
+## 加拿大
+
+|    Live Radio Name    | Stream URL                                 | Logo URL                                                     |
+| :-------------------: | :----------------------------------------- | :----------------------------------------------------------- |
+|    **加拿大中文电台**     | https://5b2959fe11444.streamlock.net/radio/fm961.stream/playlist.m3u8 | https://github.com/lqz94902/ImageLibrary/blob/main/img/Fairchild_Radio_Logo_2012.png |
+
+
+## 英国
+
+|    Live Radio Name    | Stream URL                                 | Logo URL                                                     |
+| :-------------------: | :----------------------------------------- | :----------------------------------------------------------- |
+|    **BBC 环球广播**     | https://stream.live.vc.bbcmedia.co.uk/bbc_world_service | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/BBC_WorldService.png |
+|    **BBC Radio 1**     | https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_one.m3u8 | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/BBC%20Radio%201.png |
+|    **BBC Radio 1 Relax**     | https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_one_relax/bbc_radio_one_relax.isml/bbc_radio_one_relax-audio%3d96000.m3u8 | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/BBC%20Radio%201Xtra.png |
+|    **BBC Radio 2**     | https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_one.m3u8 | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/BBC%20Radio%202.png |
+|    **BBC Radio 3**     | https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8 | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/BBC%20Radio%203.png |
+|    **BBC Radio 4**     | https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d96000.norewind.m3u8 | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/BBC%20Radio%204.png |
+|    **BBC Radio 4 Extra**     | https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d96000.norewind.m3u8 | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/BBC%20Radio%204Xtra.png |
+|    **BBC Radio 5 live**     | https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8 | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/BBC%20Radio%205%20live.png |
+|    **BBC Radio 6 Music**     | https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8 | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/BBC%20Radio%206%20Music.png |
+
 
 ## 新加坡
 
@@ -55,8 +95,11 @@
 
 | Live Radio Name | Stream URL                                       | Logo URL                                                     |
 | --------------- | ------------------------------------------------ | ------------------------------------------------------------ |
-| **MY FM**       | http://astro1.rastream.com/myfm                  | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/MY%20FM.png |
-| **8FM881**      | https://mediaprima.rastream.com/mediaprima-onefm | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main//img/8FM881.jpg |
+| **MY FM**       | ~~http://astro1.rastream.com/myfm~~                | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/MY%20FM.png |
+| **8FM881**      | https://mediaprima.rastream.com/mediaprima-onefm | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/8FM881.jpg |
+| **Ai FM**      | https://23683.live.streamtheworld.com/AI_FMAAC.aac | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/AiFM.jpg |
+| **988 FM**      | https://23733.live.streamtheworld.com/988_FMAAC.aac | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/988_FM.jpg |
+
 
 
 
