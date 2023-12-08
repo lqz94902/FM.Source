@@ -84,12 +84,12 @@
 | **UFM100.3**     | https://23683.live.streamtheworld.com/UFM_1003AAC.aac        | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main//img/UFM1003.png |
 | **96.3好FM**     | https://23683.live.streamtheworld.com/HAO_963AAC.aac         | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main//img/963HAOFM.jpg |
 | **88.3JIA**      | https://playerservices.streamtheworld.com/api/livestream-redirect/883JIA.mp3 | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/883JIA.jpg |
-| **LOVE 972**     | https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac     | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/LOVE972.jpg |
-| **CAPITAL 958** | https://14033.live.streamtheworld.com/CAPITAL958FM_PREM.aac  | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/Capital958FM.png |
-| **YES 933**      | https://14033.live.streamtheworld.com/YES933_PREM.aac        | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/YES933.jpg |
-| **Gold 905**     | https://14033.live.streamtheworld.com/GOLD905_PREM.aac       | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/GOLD905.jpg |
-| **CNA 938**      | https://14033.live.streamtheworld.com/938NOW_PREM.aac        | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/CNA938.png |
-| **Class 95**     | https://14033.live.streamtheworld.com/CLASS95_PREM.aac       | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/CLASS95.jpg |
+| **LOVE 972**     | https://22893.live.streamtheworld.com/LOVE972FM_PREM.aac     | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/LOVE972.jpg |
+| **CAPITAL 958** | https://22403.live.streamtheworld.com/CAPITAL958FM_PREM.aac  | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/Capital958FM.png |
+| **YES 933**      | https://22893.live.streamtheworld.com/YES933_PREM.aac        | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/YES933.jpg |
+| **Gold 905**     | https://22893.live.streamtheworld.com/GOLD905_PREM.aac       | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/GOLD905.jpg |
+| **CNA 938**      | https://23253.live.streamtheworld.com/938NOW_PREM.aac        | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/CNA938.png |
+| **Class 95**     | https://22893.live.streamtheworld.com/CLASS95_PREM.aac       | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/CLASS95.jpg |
 
 ##  马来西亚
 
