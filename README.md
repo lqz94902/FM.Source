@@ -80,14 +80,14 @@
 
 | Live Radio Name  | Stream URL                                                   | Logo URL                                                     |
 | ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **ONE FM 91.3**  | https://23683.live.streamtheworld.com/ONE_FM_913AAC.aac      | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main//img/ONEFM913.png |
-| **UFM100.3**     | https://23683.live.streamtheworld.com/UFM_1003AAC.aac        | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main//img/UFM1003.png |
-| **96.3好FM**     | https://23683.live.streamtheworld.com/HAO_963AAC.aac         | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main//img/963HAOFM.jpg |
+| **ONE FM 91.3**  | https://28153.live.streamtheworld.com/ONE_FM_913AAC.aac      | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main//img/ONEFM913.png |
+| **UFM100.3**     | https://22243.live.streamtheworld.com/UFM_1003AAC.aac        | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main//img/UFM1003.png |
+| **96.3好FM**     | https://22243.live.streamtheworld.com/HAO_963AAC.aac         | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main//img/963HAOFM.jpg |
 | **88.3JIA**      | https://playerservices.streamtheworld.com/api/livestream-redirect/883JIA.mp3 | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/883JIA.jpg |
-| **LOVE 972**     | https://22893.live.streamtheworld.com/LOVE972FM_PREM.aac     | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/LOVE972.jpg |
+| **LOVE 972**     | https://22393.live.streamtheworld.com/LOVE972FM_PREM.aac     | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/LOVE972.jpg |
 | **CAPITAL 958** | https://22403.live.streamtheworld.com/CAPITAL958FM_PREM.aac  | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/Capital958FM.png |
-| **YES 933**      | https://22893.live.streamtheworld.com/YES933_PREM.aac        | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/YES933.jpg |
-| **Gold 905**     | https://22893.live.streamtheworld.com/GOLD905_PREM.aac       | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/GOLD905.jpg |
+| **YES 933**      | https://22393.live.streamtheworld.com/YES933_PREM.aac        | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/YES933.jpg |
+| **Gold 905**     | https://22393.live.streamtheworld.com/GOLD905_PREM.aac       | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/GOLD905.jpg |
 | **CNA 938**      | https://23253.live.streamtheworld.com/938NOW_PREM.aac        | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/CNA938.png |
 | **Class 95**     | https://22893.live.streamtheworld.com/CLASS95_PREM.aac       | https://raw.githubusercontent.com/lqz94902/ImageLibrary/main/img/CLASS95.jpg |
 
